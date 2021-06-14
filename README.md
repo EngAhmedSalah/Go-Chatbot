@@ -17,7 +17,6 @@ Waset Documentation
       * [Linked List](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Topics%20to%20Study/Linked%20List)
             
             
-##APIs endpoints for user service:
 #Real Cool Heading
 ## POST `/user/create` ##
     {
